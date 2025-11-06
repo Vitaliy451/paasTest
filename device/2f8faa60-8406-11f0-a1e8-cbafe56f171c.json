@@ -26,16 +26,16 @@
     "firmwareId" : null,
     "id" : {
       "entityType" : "DEVICE",
-      "id" : "02142a40-bb27-11f0-b123-ed274189d54a"
+      "id" : "2f8faa60-8406-11f0-a1e8-cbafe56f171c"
     },
     "label" : "",
-    "name" : "DevGit",
+    "name" : "test",
     "ownerId" : null,
     "softwareId" : null,
     "type" : "default"
   },
   "credentials" : {
-    "credentialsId" : "BFhD9Tz49wJKrbZoHRiK",
+    "credentialsId" : "mpdALsNX1bNLIJMr81o7",
     "credentialsType" : "ACCESS_TOKEN",
     "credentialsValue" : null
   },
@@ -46,11 +46,35 @@
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "active",
-      "lastUpdateTs" : 1762443666197,
+      "lastUpdateTs" : 1756386374151,
       "longValue" : null,
       "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "inactivityAlarmTime",
+      "lastUpdateTs" : 1756386374142,
+      "longValue" : 1756386374142,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "lastActivityTime",
+      "lastUpdateTs" : 1756385744637,
+      "longValue" : 1756385744614,
+      "strValue" : null
     } ],
-    "SHARED_SCOPE" : [ ]
+    "SHARED_SCOPE" : [ {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "version",
+      "lastUpdateTs" : 1756385718791,
+      "longValue" : null,
+      "strValue" : "v1.2"
+    } ]
   },
   "calculatedFields" : [ ]
 }
